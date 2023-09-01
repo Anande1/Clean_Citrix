@@ -1,0 +1,4 @@
+"C:\Program Files (x86)\Citrix\ICA Client\SelfServicePlugin\CleanUp.exe" /silent -cleanUser
+
+
+pour fermer Citrix et réouvrir en cas de bugg
